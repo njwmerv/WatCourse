@@ -1,9 +1,9 @@
-
+import HomePage from './Pages/HomePage.jsx';
 
 export default function App(){
 	return (
-		<div>
-			<h1>HI BRO</h1>
-		</div>
+		<>
+			<HomePage />
+		</>
 	);
 }
