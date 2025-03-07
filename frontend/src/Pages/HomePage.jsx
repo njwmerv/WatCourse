@@ -1,6 +1,5 @@
 import Select from 'react-select';
 import {useState} from 'react';
-import {testQuery} from '../Utility/helpers.js';
 import {TERM_OPTIONS} from '../Utility/constants.js';
 
 export default function HomePage(){
